@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Library ROI Calculator
-Description: This plugin displays a Return on Investment (ROI) calculator for public libraries on your WordPress site.
+Description: This plugin displays a Return on Investment (ROI) calculator for public libraries on your WordPress site. This plugin no longer works. 
 Version: 1.0
 Author: Steve Gregory, Colorado State Library
-Author URI: http://www.colibraries.org
+Author URI: https://www.colibraries.org
 License: Please contact the Colorado State Library for licensing information.
 */
 
